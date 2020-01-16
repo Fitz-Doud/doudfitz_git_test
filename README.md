@@ -6,3 +6,5 @@ Sophmore
 Traverse City 
 CMSE 201 class
 
+Angela's email:lamperta@msu.edu
+
